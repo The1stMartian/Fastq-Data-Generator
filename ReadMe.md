@@ -2,7 +2,7 @@
 # Fastq Mini Data Generator
 
 ## Overview:
-Did you ever need a mini fastq dataset for testing? This script will generate one for you. "AccioFastq.py" is a Harry Potter reference ;)
+<i>Did you ever need a mini fastq dataset for testing? This script will generate one for you! "accioFastq.py" is a Harry Potter reference ;)</i>
 
 ## Features:
 - Differential expression in your gene/region of choice - great for RNA-seq or ChIP-Seq pipeline testing
@@ -38,7 +38,7 @@ Did you ever need a mini fastq dataset for testing? This script will generate on
 ![files](./media/files.jpg)
 
 # Usage example:
-python AccioFastq.py \\<br>
+python accioFastq.py \\<br>
     --fasta chrM.fa \\<br>
     --outdir fastq \\<br>
     --layout PE \\<br>
